@@ -10,7 +10,9 @@ for fruit in fruits:
 # banana
 # cherry
 
-# Example 2: while loop
+
+
+#   Example 2: while loop
 count = 0
 
 # Loop until count reaches 5
