@@ -1,13 +1,13 @@
 
 
-mylist = []
-mylist.append(1)
-mylist.append(2)
-mylist.append(3)
-print(mylist[0]) # prints 1
-print(mylist[1]) # prints 2
-print(mylist[2]) # prints 3
-
-# prints out 1,2,3
-for x in mylist:
-    print(x)
+# a simple list   
+list1 = [1, 2, "Python", "Program", 15.9]      
+list2 = ["Amy", "Ryan", "Henry", "Emma"]   
+  
+# printing the list  
+print(list1)  
+print(list2)  
+  
+# printing the type of list  
+print(type(list1))  
+print(type(list2))  
