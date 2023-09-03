@@ -1,6 +1,8 @@
 
 rows = int(input("Enter the number of rows: "))  
 i = 1  
+
+
 # outer file loop to print number of rows  
 while i <= rows:  
     j = 1  
